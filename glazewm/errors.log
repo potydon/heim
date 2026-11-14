@@ -1,0 +1,10 @@
+[2m2026-09-14T03:09:29.870325Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%APPDATA%/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-09-14T03:10:27.889692Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-10-27T22:04:22.745749Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-10-27T22:08:43.386726Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-10-29T00:11:43.183097Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-10-29T17:00:46.655494Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-10-30T21:36:44.555720Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-10-31T07:02:21.944860Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-11-01T02:11:14.145594Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
+[2m2026-11-01T05:57:14.267647Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '%USERPROFILE%/AppData/Local/FlowLauncher/Flow.Launcher.exe': program path is not valid.
